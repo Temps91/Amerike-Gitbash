@@ -30,3 +30,4 @@ Disfruto de estas actividades ya que me siento realizado conmigo mismo y tener a
 https://github.com/Temps91/practica-3
 https://github.com/Temps91/practica5_1
 https://github.com/Temps91/Practica-6
+[practica 7](https://github.com/Temps91/Practica-6)
